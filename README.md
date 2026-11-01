@@ -16,14 +16,7 @@
 
 ## 💛 **WHO AM I?**
 
-```yaml
-Name: Rishita Chatterjee
-Education: First Year B.Tech
-Institute: PW Institute of Innovation
-Field: Computer Science & Engineering
-Passion: Software Development & Technology
-Mindset: Ambitious | Creative | Growth-Oriented
-```
+
 
 > **A passionate software developer with big dreams, a curious mind, and the determination to turn ideas into reality.**
 
@@ -33,16 +26,6 @@ I believe that every line of code is an opportunity to learn, innovate, and crea
 
 ---
 
-## ⚡ **MY PASSION**
-
-<div align="center">
-
-### 💻 SOFTWARE DEVELOPMENT
-### 🚀 INNOVATION & PROBLEM SOLVING
-### 🎯 CONTINUOUS LEARNING
-### 🌟 BUILDING THE FUTURE
-
-</div>
 
 ---
 
@@ -107,7 +90,7 @@ I love exploring new ideas, discovering new places, challenging myself through s
 > Hard work never stops.  
 > Neither should your dreams."
 
-**— Rishita Chatterjee**
+
 
 <br/>
 
